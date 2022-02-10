@@ -35,9 +35,7 @@ Screenshots in the screenshots folder
 
 
 ### Links
-
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://a20q.com/projects/FEM/index.html)
+- Live Site URL: [Have alook at my solution to the challenge here.](https://a20q.com/projects/FEM/index.html)
 
 ## My process
 Jumped in to VS Code and started building. HTML code and classes then sort it out with CSS.
